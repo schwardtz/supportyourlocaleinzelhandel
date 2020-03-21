@@ -1,9 +1,12 @@
 [
     {
         "name" : "SHABBY DIELE SCANDI LIVING",
-        "contact" : "test@example.org",
         "description" : "Wein, Whisky, Gin, Rum und Craft Beer. Soli Gutscheine gegen die Corona Krise Soli Gutscheine gegen die Corona Krise",
         "email":"info@die-genussverstaerker.de",
+        "website":"example.org",
+        "facebook":"facebook.com",
+        "instagram":"instagram.com",
+        "phone": "000000000",
         "image" : "cafe.jpg",
         "street": "Musterstraße 24",
         "city" : "Frankfurt",
@@ -12,7 +15,6 @@
     },
     {
         "name" : "Die Genussverstärker",
-        "contact" : "https://www.die-genussverstaerker.de/support-your-local-dealer-soli-gutscheine-gegen-die-corona-krise/",
         "email":"info@die-genussverstaerker.de",
         "description" : "Wein, Whisky, Gin, Rum und Craft Beer. Soli Gutscheine gegen die Corona Krise",
         "image" : "bar.jpg",
@@ -23,7 +25,7 @@
     },
     {
         "name" : "Essensplatz 3",
-        "contact" : "test@example.org",
+        "email" : "test@example.org",
         "description" : "Wein, Whisky, Gin, Rum und Craft Beer. Soli Gutscheine gegen die Corona Krise",
         "image" : "cloth.jpg",
         "street": "Musterstraße 24",
@@ -33,7 +35,7 @@
     },
     {
         "name" : "Essensplatz 4",
-        "contact" : "test@example.org",
+        "email" : "test@example.org",
         "description" : "Examplerestaurant",
         "image" : "bar.jpg",
         "street": "Musterstraße 24",
@@ -43,7 +45,7 @@
     },
     {
         "name" : "Essensplatz 5",
-        "contact" : "test@example.org",
+        "email" : "test@example.org",
         "description" : "Examplerestaurant",
         "image" : "bar.jpg",
         "street": "Musterstraße 24",
@@ -53,7 +55,7 @@
     },
     {
         "name" : "Essensplatz 6",
-        "contact" : "test@example.org",
+        "email" : "test@example.org",
         "description" : "Examplerestaurant",
         "image" : "bar.jpg",
         "street": "Musterstraße 24",
@@ -63,7 +65,7 @@
     },
     {
         "name" : "Essensplatz 7",
-        "contact" : "test@example.org",
+        "email" : "test@example.org",
         "description" : "Examplerestaurant",
         "image" : "bar.jpg",
         "street": "Musterstraße 24",
